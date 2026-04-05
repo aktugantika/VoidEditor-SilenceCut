@@ -1,0 +1,2 @@
+# VoidEditor-SilenceCut
+
