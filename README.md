@@ -2,6 +2,13 @@
 
 Free Local AI-powered silence remover plugin for Adobe Premiere Pro.
 
+## ⚠️ Antivirus Warning
+This installer may trigger a false positive from your antivirus software.
+This is a common issue with PyInstaller-packaged applications.
+
+The plugin is 100% open-source safe. You can verify by virustotal or you can check virustotal link:
+https://www.virustotal.com/gui/file/f49ec5b8c65611bda035b6af83d97412e6ced097713475c9f46abff86dd45075/detection
+
 ## Features
 -  Automatic silence detection
 -  One-click silence removal
@@ -17,6 +24,8 @@ Free Local AI-powered silence remover plugin for Adobe Premiere Pro.
 2. Run `VoidEditor_SilenceCut_Setup_v1.0.0.exe`
 3. Open Premiere Pro
 4. Go to `Window → Extensions → Void-Editor SilenceCut`
+
+**Windows SmartScreen:** Click "More info" → "Run anyway"
 
 ## System Requirements
 - Windows 10/11 (64-bit)
