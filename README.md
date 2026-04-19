@@ -2,6 +2,10 @@
 
 Free Local AI-powered silence remover plugin for Adobe Premiere Pro.
 
+## You need to install FFmpeg on your system. 
+
+## This plugin is not tested on other devices. Dont forget to leave feedback
+
 ## ⚠️ Antivirus Warning
 This installer may trigger a false positive from your antivirus software.
 This is a common issue with PyInstaller-packaged applications.
